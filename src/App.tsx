@@ -15,7 +15,7 @@ function App() {
             alt="Under Construction"
             style={{ width: "230px", marginBottom: "20px" }}
           />
-          <h1>&lt; Coming soon &gt;</h1>
+          <h1> Coming soon </h1>
           <p>under construction </p>
              
           {/* <SocialFollow /> */}
